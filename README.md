@@ -18,7 +18,7 @@
 
 **2** : BUGGER에 로봇 팔을 달아서 작물 수확이 가능하게 함
 
-
+![Korean_Smart_Farms](https://github.com/Sungmyunghoon/smart-farm/assets/112747810/fbefc312-41aa-4c39-a9f9-5423f3635b62)
 
 **3** : BUGGER에 아래 영상처럼 카메라를 달아 식물의 상태 확인
 
